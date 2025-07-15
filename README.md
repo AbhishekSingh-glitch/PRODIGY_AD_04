@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tic Tac Toe Game - Flutter</title>
-<style>
-  body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-  h1, h2, h3 { color: #2c3e50; }
-  pre { background: #f4f4f4; padding: 10px; border-radius: 5px; }
-  code { color: #c7254e; }
-  a { color: #3498db; text-decoration: none; }
-</style>
-</head>
-<body>
-
 <h1>✨ Tic Tac Toe Game (Flutter)</h1>
 
 <p>
@@ -52,7 +36,7 @@
 <h2>📱 Screenshots</h2>
 <div style="display: flex; gap: 10px;">
     <img alt="Screenshot_20250715_171623.png" height="300" src="screenshots/Screenshot_20250715_171623.png"/>
-    <img alt="Screenshot_20250715_171756.png" height="300" src="screenshots/Screenshot_20250715_171756.png"/>
+    <img alt="Screenshot_20250715_171756.png" width="300" src="screenshots/Screenshot_20250715_171756.png"/>
 </div>
 
 
@@ -76,6 +60,3 @@
 
 <h2>⭐ Credits</h2>
 <p>Built with ❤️ using <a href="https://flutter.dev/">Flutter</a>.</p>
-
-</body>
-</html>
